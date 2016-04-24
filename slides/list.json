@@ -1,0 +1,34 @@
+[
+    "index.md",
+	[
+		"slide-1.md",
+        "slide-3.md"
+    ],
+    "slide-2.md",
+    "slide-4.md",
+    {
+        "attr": {
+            "data-background": "https://pixabay.com/static/uploads/photo/2015/10/01/21/39/background-image-967820_960_720.jpg"
+        }
+    },
+    {
+        "filename": "slide-5.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "slide-6.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "slide-5.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    "slide-6.md",
+    "slide-7.md"
+]
