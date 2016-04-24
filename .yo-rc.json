@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Azure Pattens and Practices",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "fahey252",
+    "githubRepository": "AzurePatternsAndPractices"
+  }
+}
