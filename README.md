@@ -8,6 +8,9 @@ $ bower install
 $ grunt serve
 ```
 
+##View
+  * http://fahey252.github.io/AzurePatternsAndPractices
+
 ## Credits
   * Created with <https://github.com/slara/generator-reveal>
   * Based on [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications](https://msdn.microsoft.com/en-us/library/dn568099.aspx)

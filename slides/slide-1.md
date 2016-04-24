@@ -1,3 +1,9 @@
-##  Slide 1
+# Azure Pattens and Practices
 
-This is a new Markdown slide
+From the terminal, pop in:
+
+  ```yo reveal:slide "Slide Title"```
+
+Available options:
+
+ ```--markdown --attributes --notes```
