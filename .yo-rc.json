@@ -1,6 +1,6 @@
 {
   "generator-reveal": {
-    "presentationTitle": "Azure Pattens and Practices",
+    "presentationTitle": "Azure Patterns and Practices",
     "packageVersion": "0.0.0",
     "revealTheme": "black",
     "useSass": false,

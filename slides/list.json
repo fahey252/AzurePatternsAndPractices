@@ -1,20 +1,12 @@
 [
-    "index.md",
 	[
 		"slide-1.md",
         "slide-3.md"
     ],
     "slide-2.md",
-    "slide-4.md",
     {
         "attr": {
-            "data-background": "https://pixabay.com/static/uploads/photo/2015/10/01/21/39/background-image-967820_960_720.jpg"
-        }
-    },
-    {
-        "filename": "slide-5.md",
-        "attr": {
-            "data-background": "#ff0000"
+            "data-background": "https://img.washingtonpost.com/news/the-intersect/wp-content/uploads/sites/32/2015/04/putin-meme.jpg"
         }
     },
     {
@@ -23,12 +15,5 @@
             "data-background": "#ff0000"
         }
     },
-    {
-        "filename": "slide-5.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    "slide-6.md",
-    "slide-7.md"
+    "slide-6.md"
 ]

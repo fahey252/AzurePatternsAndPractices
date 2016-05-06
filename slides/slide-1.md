@@ -1,9 +1,9 @@
-# Azure Pattens and Practices
+# Azure Patterns and Practices
 
-From the terminal, pop in:
+##Christopher Fahey
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+note:
+Test  
+s
+4  
+3
