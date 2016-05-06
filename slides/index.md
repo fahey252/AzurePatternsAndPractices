@@ -10,4 +10,5 @@ Build in a manner to get as much value as possible
 Avoid cascading failures, excessive charges, stateful VM's  
 Pattern = Problem -> Solutions.  
 Can blend patterns, deviate when it makes sense.  
-Goal is cover all the patterns, but go in depth on interesting patterns.  
+Goal is cover all the patterns, but go in depth on interesting patterns.
+Patterns offer flexible solutions to common problems in software development.   
