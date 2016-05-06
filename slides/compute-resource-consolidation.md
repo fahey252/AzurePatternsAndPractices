@@ -1,7 +1,6 @@
 ##  Compute Resource Consolidation
 
-This is a new Markdown slide
+![Compute Resource Consolidation](../resources/images/compute-resource-consolidation.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+

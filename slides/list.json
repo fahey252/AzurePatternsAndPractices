@@ -6,7 +6,6 @@
     "cache-aside.md",
     "circuit-breaker.md",
     "compensating-transaction.md",
-    ".md",
     "competing-consumers.md",
     "compute-resource-consolidation.md",
     "command-and-query-responsibility-segregation-cqrs.md",

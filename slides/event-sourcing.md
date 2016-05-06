@@ -1,7 +1,6 @@
 ##  Event Sourcing
 
-This is a new Markdown slide
+![Event Sourcing](../resources/images/event-sourcing.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+

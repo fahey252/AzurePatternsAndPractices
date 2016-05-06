@@ -1,7 +1,5 @@
 ##  Command and Query Responsibility Segregation (CQRS)
 
-This is a new Markdown slide
+![CQRS](../resources/images/cqrs.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

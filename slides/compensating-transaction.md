@@ -1,7 +1,5 @@
 ## Compensating Transaction
 
-This is a new Markdown slide
+![Compensating Transaction](../resources/images/compensating-transaction.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

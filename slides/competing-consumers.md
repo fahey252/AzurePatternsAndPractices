@@ -1,7 +1,6 @@
 ##  Competing Consumers
 
-This is a new Markdown slide
+![Competing Consumers](../resources/images/competing-consumers.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+
