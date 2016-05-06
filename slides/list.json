@@ -3,15 +3,33 @@
         "index.md",
         "introduction.md"
     ],
-    "cache-aside.md",
-    "circuit-breaker.md",
-    "compensating-transaction.md",
-    "competing-consumers.md",
-    "compute-resource-consolidation.md",
-    "command-and-query-responsibility-segregation-cqrs.md",
+    [
+        "cache-aside.md",
+        "cache-aside-notes.md"
+    ],
+    [
+        "circuit-breaker.md",
+        "circuit-breaker-notes.md"
+    ],
+    [
+        "compensating-transaction.md",
+        "compensating-transaction-notes.md"
+    ],
+    [
+        "competing-consumers.md",
+        "competing-consumers-notes.md"
+    ],
+    [
+        "compute-resource-consolidation.md",
+        "compute-resource-consolidation-notes.md"
+    ],
+    [
+        "command-and-query-responsibility-segregation-cqrs.md",
+        "command-and-query-responsibility-segregation-cqrs-notes.md"
+    ],
     "event-sourcing.md",
     "external-configuration-store.md",
-    "federated-identity-pattern.md",
+    "federated-identity.md",
     "gatekeeper.md",
     "health-endpoint-monitoring.md",
     "index-table.md",

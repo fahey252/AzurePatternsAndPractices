@@ -1,7 +1,5 @@
-##  Static Content Hosting
+## Static Content Hosting
 
-This is a new Markdown slide
+![Static Content Hosting](../resources/images/static-content-hosting.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

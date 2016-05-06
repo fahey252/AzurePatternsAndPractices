@@ -1,7 +1,5 @@
 ##  Retry
 
-This is a new Markdown slide
+![Retry](../resources/images/retry.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

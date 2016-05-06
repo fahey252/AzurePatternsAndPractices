@@ -1,7 +1,5 @@
-##  Pipes and Filters
+## Pipes and Filters
 
-This is a new Markdown slide
+![Pipes and Filters](../resources/images/pipes-and-filters.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

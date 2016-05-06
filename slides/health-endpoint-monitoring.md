@@ -1,7 +1,5 @@
-##  Health Endpoint Monitoring
+## Health Endpoint Monitoring
 
-This is a new Markdown slide
+![Health Endpoint Monitoring](../resources/images/health-endpoint-monitoring.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

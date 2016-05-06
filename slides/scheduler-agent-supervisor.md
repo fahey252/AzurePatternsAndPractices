@@ -1,7 +1,5 @@
-##  Scheduler Agent Supervisor
+## Scheduler Agent Supervisor
 
-This is a new Markdown slide
+![Scheduler Agent Supervisor](../resources/images/scheduler-agent-supervisor.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

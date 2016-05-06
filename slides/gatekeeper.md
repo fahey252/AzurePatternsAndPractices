@@ -1,7 +1,5 @@
-##  Gatekeeper
+## Gatekeeper
 
-This is a new Markdown slide
+![Gatekeeper](../resources/images/gatekeeper.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

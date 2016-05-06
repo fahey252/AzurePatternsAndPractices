@@ -1,7 +1,5 @@
-##  Sharding
+## Sharding
 
-This is a new Markdown slide
+![Sharding](../resources/images/sharding.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

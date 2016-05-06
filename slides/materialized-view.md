@@ -1,7 +1,5 @@
-##  Materialized View
+## Materialized View
 
-This is a new Markdown slide
+![Materialized View](../resources/images/materialized-view.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

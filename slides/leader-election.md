@@ -1,7 +1,5 @@
-##  Leader Election
+## Leader Election
 
-This is a new Markdown slide
+![Leader Election](../resources/images/leader-election.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

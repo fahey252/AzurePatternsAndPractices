@@ -1,4 +1,4 @@
-# Cloud Design Patterns with Azure
+# Cloud Design Patterns with Microsoft Azure
 
 ##Christopher Fahey
 

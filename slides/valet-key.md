@@ -1,7 +1,5 @@
-##  Valet Key
+## Valet Key
 
-This is a new Markdown slide
+![Valet Key](../resources/images/valet-key.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

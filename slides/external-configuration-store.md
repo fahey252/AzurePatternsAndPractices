@@ -1,7 +1,5 @@
 ##  External Configuration Store
 
-This is a new Markdown slide
+![External Configuration Store](../resources/images/external-configuration-store.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

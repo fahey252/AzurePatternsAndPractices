@@ -1,7 +1,5 @@
-##  Runtime Reconfiguration
+## Runtime Reconfiguration
 
-This is a new Markdown slide
+![Runtime Reconfiguration](../resources/images/runtime-reconfiguration.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

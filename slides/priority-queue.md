@@ -1,7 +1,5 @@
-##  Priority Queue
+## Priority Queue
 
-This is a new Markdown slide
+![Priority Queue](../resources/images/priority-queue.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

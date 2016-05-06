@@ -1,7 +1,5 @@
-##  Queue-based Load Leveling
+## Queue-based Load Leveling
 
-This is a new Markdown slide
+![Queue-based Load Leveling](../resources/images/queue-based-load-leveling.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

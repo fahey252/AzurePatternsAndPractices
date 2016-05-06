@@ -1,4 +1,4 @@
-# Azure Patterns And Practices
+# Cloud Design Patterns with Microsoft Azure
 
 ## Install
 ```bash

@@ -1,7 +1,5 @@
-##  Index Table
+## Index Table
 
-This is a new Markdown slide
+![Index Table](../resources/images/index-table.png)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
