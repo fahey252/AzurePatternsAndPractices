@@ -1,19 +1,31 @@
 [
-	[
-		"slide-1.md",
-        "slide-3.md"
+    [
+        "index.md",
+        "introduction.md"
     ],
-    "slide-2.md",
-    {
-        "attr": {
-            "data-background": "https://img.washingtonpost.com/news/the-intersect/wp-content/uploads/sites/32/2015/04/putin-meme.jpg"
-        }
-    },
-    {
-        "filename": "slide-6.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
-    },
-    "slide-6.md"
+    "cache-aside.md",
+    "circuit-breaker.md",
+    "compensating-transaction.md",
+    ".md",
+    "competing-consumers.md",
+    "compute-resource-consolidation.md",
+    "command-and-query-responsibility-segregation-cqrs.md",
+    "event-sourcing.md",
+    "external-configuration-store.md",
+    "federated-identity-pattern.md",
+    "gatekeeper.md",
+    "health-endpoint-monitoring.md",
+    "index-table.md",
+    "leader-election.md",
+    "materialized-view.md",
+    "pipes-and-filters.md",
+    "priority-queue.md",
+    "queue-based-load-leveling.md",
+    "retry.md",
+    "runtime-reconfiguration.md",
+    "scheduler-agent-supervisor.md",
+    "sharding.md",
+    "static-content-hosting.md",
+    "throttling.md",
+    "valet-key.md"
 ]
