@@ -1,6 +1,6 @@
 ##  Competing Consumers
 
-![Competing Consumers](../resources/images/competing-consumers.png)
+![Competing Consumers](resources/images/competing-consumers.png)
 
 note:
 Enable __concurrent consumers to process messages__ received on the same messaging channel.  
