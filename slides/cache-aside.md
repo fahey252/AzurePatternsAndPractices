@@ -1,6 +1,6 @@
 ## Cache-Aside
 
-![Cache-Aside](../resources/images/cache-aside.png)
+![Cache-Aside](resources/images/cache-aside.png)
 
 note:
 Improve __performance__  
