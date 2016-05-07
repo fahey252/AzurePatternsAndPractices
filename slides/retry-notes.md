@@ -1,2 +1,8 @@
-## Notes
-  * Note 1
+###Problem
+text
+
+###Solution
+text
+
+####Notes
+  * <>
