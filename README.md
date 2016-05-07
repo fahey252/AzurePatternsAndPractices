@@ -27,5 +27,5 @@ $ grunt serve
 
 ## Credits
   * Built on [RevealJS](https://github.com/hakimel/reveal.js)
-  * Created with <https://github.com/slara/generator-reveal>
+  * Created with [Reveal Generator](https://github.com/slara/generator-reveal)
   * Based on [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications](https://msdn.microsoft.com/en-us/library/dn568099.aspx)

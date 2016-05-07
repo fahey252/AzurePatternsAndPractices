@@ -25,7 +25,8 @@
     ],
     [
         "command-and-query-responsibility-segregation-cqrs.md",
-        "command-and-query-responsibility-segregation-cqrs-notes.md"
+        "command-and-query-responsibility-segregation-cqrs-notes.md",
+        "command-and-query-responsibility-segregation-cqrs-separation.md"
     ],
     [
         "event-sourcing.md",
@@ -47,6 +48,12 @@
         "health-endpoint-monitoring.md",
         "health-endpoint-monitoring-notes.md"
     ],
+    {
+        "filename": "mind-blown.md",
+        "attr": {
+            "data-background": "../resources/images/mind-blown.jpg"
+        }
+    },
     [
         "index-table.md",
         "index-table-notes.md"
