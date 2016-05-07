@@ -1,5 +1,5 @@
 ## Federated Identity
 
-![Federated Identity](../resources/images/federated-identity.png)
+![Federated Identity](resources/images/federated-identity.png)
 
 note:

@@ -1,5 +1,5 @@
 ## Gatekeeper
 
-![Gatekeeper](../resources/images/gatekeeper.png)
+![Gatekeeper](resources/images/gatekeeper.png)
 
 note:

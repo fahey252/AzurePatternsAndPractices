@@ -1,5 +1,5 @@
 ## Valet Key
 
-![Valet Key](../resources/images/valet-key.png)
+![Valet Key](resources/images/valet-key.png)
 
 note:
