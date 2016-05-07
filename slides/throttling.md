@@ -1,5 +1,5 @@
 ## Throttling
 
-![Throttling](../resources/images/throttling.png)
+![Throttling](resources/images/throttling.png)
 
 note:

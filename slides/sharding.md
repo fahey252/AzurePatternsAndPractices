@@ -1,5 +1,5 @@
 ## Sharding
 
-![Sharding](../resources/images/sharding.png)
+![Sharding](resources/images/sharding.png)
 
 note:

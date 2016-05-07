@@ -1,5 +1,5 @@
 ## Runtime Reconfiguration
 
-![Runtime Reconfiguration](../resources/images/runtime-reconfiguration.png)
+![Runtime Reconfiguration](resources/images/runtime-reconfiguration.png)
 
 note:

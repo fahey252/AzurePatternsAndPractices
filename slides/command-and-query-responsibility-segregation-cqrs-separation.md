@@ -1,6 +1,6 @@
 ## CQRS Separation
 
-![CQRS](../resources/images/cqrs-stores.png)
+![CQRS](resources/images/cqrs-stores.png)
 
 note:
 __Undo work__ performed by a series of steps

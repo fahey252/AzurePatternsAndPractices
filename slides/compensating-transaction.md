@@ -1,5 +1,5 @@
 ## Compensating Transaction
 
-![Compensating Transaction](../resources/images/compensating-transaction.png)
+![Compensating Transaction](resources/images/compensating-transaction.png)
 
 note:

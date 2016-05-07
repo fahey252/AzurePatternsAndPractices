@@ -1,6 +1,6 @@
 ## Command and Query Responsibility Segregation (CQRS)
 
-![CQRS](../resources/images/cqrs.png)
+![CQRS](resources/images/cqrs.png)
 
 note:
 Separate __read and update__ operations  
