@@ -1,6 +1,6 @@
 # Cloud Design Patterns with Microsoft Azure
 
-##Christopher Fahey
+###Christopher Fahey
 
 note:
 Patterns and Practices team at Microsoft (24 Design patterns)  
