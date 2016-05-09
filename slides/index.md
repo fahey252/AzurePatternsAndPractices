@@ -9,3 +9,4 @@ Cloud computing -> running on other peoples hardware
 Build in a manner to get __as much value as possible__  
 __Pattern = Problem -> Solutions__  
 Patterns offer flexible solutions to __common problems__ in software development   
+__proven practices for predicable results__
